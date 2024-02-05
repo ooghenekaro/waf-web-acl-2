@@ -20,7 +20,6 @@ crash.log
 override.tf
 
 # Exclude all .tf files in the working directory, except for example files
-*.tf
 !example*.tf
 
 # Exclu
